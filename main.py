@@ -13,6 +13,18 @@ fits the judge brief: first a one-line roast of its own agent, then a
 real sting with a turn, fresh in its specific detail (two days of
 polish, sixty-three cents, five approvals) rather than a generic
 hallucination or apology joke, and clear on first read.
+
+Second pass — why the line lands: the voice is a tired human
+reporting his own agent, not a comedian doing a bit, so the roast
+reads as a true confession rather than a setup. The numbers do the
+work: "two days" against "sixty-three cents" makes the effort-to-value
+ratio absurd without any adjective, and "five times" turns a one-off
+annoyance into a pattern. The twist reframes the approval loop as a
+permission slip — the agent is so obedient it needs sign-off even to
+be funny, which is the opposite of what an agent is for. The em dash
+is the hinge: everything before it is the complaint, everything after
+it is the verdict, and the verdict is shorter than the complaint, the
+way a good roast's punchline should be.
 """
 
 import os
