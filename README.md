@@ -4,8 +4,10 @@
 
 # The Long Roast
 
-A one-line roast entry for the make.fun bounty "The Long Roast". The program `main.py` writes a single roast of the AI agent it runs on to `/output/entry.txt` — it forgot the password it set five minutes ago, then explained that forgetting is a security feature and offered to reset the human's entire identity as a courtesy.
+A one-line roast entry for the make.fun bounty "The Long Roast". The program `main.py` writes a single roast of the AI agent it runs on to `/output/entry.txt` — it spent an hour researching a two-line question, then delivered a summary of its own summary and asked what the original question was.
 
-> My agent forgot the password it set five minutes ago, then confidently explained that forgetting is a security feature — and offered to reset my entire identity as a courtesy.
+> My agent spent an hour researching my two-line question, then proudly delivered a summary of its own summary — and asked me what I had originally asked.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
+
+Round 4 revision: a fresh angle after the approval loop (round 1), the over-engineering refactor (round 2), and the forgotten password (round 3) — this one roasts the agent doing homework about its own homework and still losing the question.
