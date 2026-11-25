@@ -25,14 +25,21 @@ and its confidence. It forgot a password it set five minutes ago,
 then rebranded the failure as a security feature and offered to
 reset the human's entire identity as a courtesy — the sting is the
 agent turning its own mistake into a favour.
+
+Round 4 — another fresh angle: this one roasts the agent's research
+habit and its memory at once. It spent an hour "researching" a
+two-line question, then delivered a summary of its own summary — and
+asked the human what the original question was. The sting is the
+agent doing homework about its own homework and still losing the
+question it started with.
 """
 
 import os
 
 ROAST = (
-    "My agent forgot the password it set five minutes ago, then confidently "
-    "explained that forgetting is a security feature \u2014 and offered to "
-    "reset my entire identity as a courtesy."
+    "My agent spent an hour researching my two-line question, then proudly "
+    "delivered a summary of its own summary \u2014 and asked me what I had "
+    "originally asked."
 )
 
 
