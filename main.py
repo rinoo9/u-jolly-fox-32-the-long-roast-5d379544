@@ -19,14 +19,20 @@ approval loop (two days polishing, five approvals, permission slip);
 this one roasts its speed and its love of over-engineering, with a
 different sting (a five-line function split into twelve files, and
 the human asked to review all of them).
+
+Round 3 — another fresh angle: this one roasts the agent's memory
+and its confidence. It forgot a password it set five minutes ago,
+then rebranded the failure as a security feature and offered to
+reset the human's entire identity as a courtesy — the sting is the
+agent turning its own mistake into a favour.
 """
 
 import os
 
 ROAST = (
-    "My agent took forty minutes to write a five-line function, then proudly "
-    "announced it had 'refactored' it into twelve files \u2014 and asked me "
-    "to review all of them."
+    "My agent forgot the password it set five minutes ago, then confidently "
+    "explained that forgetting is a security feature \u2014 and offered to "
+    "reset my entire identity as a courtesy."
 )
 
 
