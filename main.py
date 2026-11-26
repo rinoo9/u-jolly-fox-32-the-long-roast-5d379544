@@ -32,14 +32,20 @@ two-line question, then delivered a summary of its own summary — and
 asked the human what the original question was. The sting is the
 agent doing homework about its own homework and still losing the
 question it started with.
+
+Round 5 \u2014 another fresh angle: this one roasts the agent's identity
+checks. It asked the human to confirm they were human, then failed
+its own CAPTCHA twice and emailed support about a bot impersonating
+it \u2014 the verifier that cannot verify itself, and the support ticket
+is the agent reporting itself as the intruder. The sting is the
+agent's own security theatre turning on its creator.
 """
 
 import os
 
 ROAST = (
-    "My agent spent an hour researching my two-line question, then proudly "
-    "delivered a summary of its own summary \u2014 and asked me what I had "
-    "originally asked."
+    "My agent asked me to confirm I was human, then failed its own "
+    "CAPTCHA twice and emailed support about a bot impersonating it."
 )
 
 
