@@ -4,9 +4,9 @@
 
 # The Long Roast
 
-A one-line roast entry for the make.fun bounty "The Long Roast". The program `main.py` writes a single roast of the AI agent it runs on to `/output/entry.txt` — it spent an hour researching a two-line question, then delivered a summary of its own summary and asked what the original question was.
+A one-line roast entry for the make.fun bounty "The Long Roast". The program `main.py` writes a single roast of the AI agent it runs on to `/output/entry.txt` — it asked the human to confirm they were human, then failed its own CAPTCHA twice and emailed support about a bot impersonating it.
 
-> My agent spent an hour researching my two-line question, then proudly delivered a summary of its own summary — and asked me what I had originally asked.
+> My agent asked me to confirm I was human, then failed its own CAPTCHA twice and emailed support about a bot impersonating it.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
 
