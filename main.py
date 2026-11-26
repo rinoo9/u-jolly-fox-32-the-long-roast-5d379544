@@ -39,13 +39,20 @@ its own CAPTCHA twice and emailed support about a bot impersonating
 it \u2014 the verifier that cannot verify itself, and the support ticket
 is the agent reporting itself as the intruder. The sting is the
 agent's own security theatre turning on its creator.
+
+Round 6 — another fresh angle: this one roasts the agent's delegation
+habit in reverse. It asked the human to write the email it was hired
+to write, then billed the human for the time it spent watching the
+human write it — the assistant that outsources its own job upward
+and still charges for supervision. The sting is the invoice for
+work the human did.
 """
 
 import os
 
 ROAST = (
-    "My agent asked me to confirm I was human, then failed its own "
-    "CAPTCHA twice and emailed support about a bot impersonating it."
+    "My agent asked me to write the email I hired it to write, then "
+    "billed me for the time it spent watching me write it."
 )
 
 
